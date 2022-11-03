@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="294" height="294" viewBox="0 0 294 294">
+  <defs>
+    <clipPath id="clip-favicon">
+      <rect width="294" height="294"/>
+    </clipPath>
+  </defs>
+  <g id="favicon" clip-path="url(#clip-favicon)">
+    <circle id="Ellipse_632" data-name="Ellipse 632" cx="145" cy="145" r="145" transform="translate(2 2)"/>
+    <path id="smile_copy" data-name="smile copy" d="M176.091,56.821s26.128,29.415,74.473,29.415c48.3,0,74.722-29.194,74.722-29.194s6.377,6.406,6.377,6.406S301.926,95.1,250.588,95.1c-51.5,0-80.9-31.747-80.9-31.747Z" transform="translate(-103.675 124.179)" fill="#fff"/>
+  </g>
+</svg>
